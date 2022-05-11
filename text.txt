@@ -1,0 +1,23 @@
+https://www.google.com/advanced_search
+google avançado
+
+
+
+https://www.google.com/search?hl=pt-BR
+as_q=comer+banana+cereja+bem
+as_epq=%22comer+banana+ou+cereja+faz+bem%22
+as_oq=banana+OR+cereja
+as_eq=-beterraba%2C+-mam%C3%A3o
+
+
+
+
+
+
+https://images.google.com/
+google image
+
+
+https://www.google.com/search?
+q=banana
+source=lnms&tbm=isch
